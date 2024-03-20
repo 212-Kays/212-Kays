@@ -44,12 +44,6 @@
 
 <div align="center">
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=212-Kays&theme=jolly&count_private=true" align="center" />
-    </p>
-</div>
-
-<div align="center">
-    <p align="center">
         Views : <br>
         <img src="https://profile-counter.glitch.me/212-Kays/count.svg" align="center" />
     </p>
